@@ -1,8 +1,8 @@
 #Exercicio4
 
-v_l=float(input("Quanto esta costando a gasolina:"))
-real=float(input("Quantos reais voce deseja abastecer:"))
+v_l=float(input("Quanto esta custando a gasolina:"))
+real=float(input("Quantos reais você deseja abastecer:"))
 
 litros= real + v_l
 
-print("Voce abasteseu:", litros,"l")
+print("Você abasteceu:", litros,"l")
