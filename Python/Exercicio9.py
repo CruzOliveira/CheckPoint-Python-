@@ -13,9 +13,9 @@ p_c= c * 100 / total
 p_n= nulo * 100 / total
 p_br= branco * 100 / total
 
-print("O percentual do eleitor: ", p_a," %")
-print("O percentual do eleitor: ", p_b," %")
-print("O percentual do eleitor: ", p_c," %")
+print("O percentual do eleitor A: ", p_a," %")
+print("O percentual do eleitor B: ", p_b," %")
+print("O percentual do eleitorC: ", p_c," %")
 print("O percentual de votos nulos: ", p_n," %")
 print("O percentual de votos em branco: ", p_br," %")
 
