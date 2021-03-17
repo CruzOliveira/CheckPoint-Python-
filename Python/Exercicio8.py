@@ -1,8 +1,8 @@
 #Exercicio8
 
-salario=float(input("Digite o seu salario mensal:"))
-dispesa=float(input("Digite o valor da dispesa mesal:"))
+salario=float(input("Digite o seu salário mensal:"))
+dispesa=float(input("Digite o valor da despesa mensal:"))
 
 milhonario= 1000000/((salario - dispesa) * 12)
 
-print("Voce sera milhonario em:", milhonario," meses")
+print("Você sera milionário em:", milhonario," meses")
