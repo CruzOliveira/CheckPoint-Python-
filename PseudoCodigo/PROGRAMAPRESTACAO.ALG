@@ -1,6 +1,5 @@
 Algoritmo "ProgramaPrestacao"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 
 Var
 N, B, J, D: real
