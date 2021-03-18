@@ -1,6 +1,6 @@
 Algoritmo "ProgramaAbastecimento"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o] 
+// Professor   : Fernanda Pereira
 
 Var
   litros, reais: real
@@ -8,8 +8,8 @@ Var
 
 Inicio
  //Entrada
- escreval ("o valor da gasolina esta R$4,30")
- escreval ("quanto reais deseja abasteser:R$ ")
+ escreval ("O valor da gasolina esta R$4,30")
+ escreval ("Quanto reais deseja abasteser:R$ ")
  leia (reais)
 
   //Processamento
