@@ -1,6 +1,5 @@
 Algoritmo "ProgramaTemperatura"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 
 Var
  F, C: real
@@ -17,7 +16,7 @@ Inicio
  F:= (C * 9 / 5 ) + 32
 
  //Saida
- escreva ("A trasformacao de", f,"°C em Fahrenheit é:", F,"°C")
+ escreva ("A trasformacao de", f,"Â°C em Fahrenheit Ã©:", F,"Â°C")
 
 
 
