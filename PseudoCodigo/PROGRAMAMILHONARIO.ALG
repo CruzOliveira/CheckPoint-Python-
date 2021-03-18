@@ -1,6 +1,5 @@
 Algoritmo "ProgramaMilhonario"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
+
 
 var
  s, d, m: real

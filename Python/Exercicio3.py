@@ -1,8 +1,8 @@
 #Exercicio3
 
-cotacao=float(input("Digite quanto esta a cotacao do dolar:"))
-real=float(input("Digite quantos reais voce deseja trasformar:"))
+cotacao=float(input("Digite quanto esta a cotação do dólar:"))
+real=float(input("Digite quantos reais você deseja transformar:"))
 
 dolar= real / cotacao
 
-print("seu valor trasformado em dolar ficara: ", dolar)
+print("Seu valor transformado em dólar sera: ", dolar)

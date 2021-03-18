@@ -2,8 +2,8 @@
 
 b=float(input("Digite o valor do boleto:"))
 j=float(input("Digite o valor do juros:"))
-dia=float(input("Digite o dias de atraso:"))
+dia=float(input("Digite o dia de atraso:"))
 
 n= b + (b * ( j / 100 )) * dia
 
-print("o novo valor do boleto sera de: ", n)
+print("O novo valor do boleto sera de: ", n)
