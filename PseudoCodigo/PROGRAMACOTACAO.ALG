@@ -1,6 +1,4 @@
 Algoritmo "ProgramaCotacao"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
 
 Var
 dolar, reais :real
