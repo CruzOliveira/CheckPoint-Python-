@@ -1,6 +1,5 @@
 Algoritmo "ProgramaAbastecimento"
-// Disciplina   : [Linguagem e Lógica de Programação] 
-// Professor   : Fernanda Pereira
+
 
 Var
   litros, reais: real
